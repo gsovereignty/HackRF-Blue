@@ -1,6 +1,8 @@
 #HackRF Blue
 The HackRF Blue project aims to reduce the cost and increase access to full-featured SDR.
 
+My aim is to update this project with <b>everything</b> you need in order to manufacture the HackRF, what better way to reduce the cost than creating competition.
+
 In the BOM you will find notes about individual parts. Some parts can safely be replaced with Chinese parts, others cannot. 
 
 If you would like to use the same PCB and Assembly house that produce the HackRF Blue, their contact details are as follows:
