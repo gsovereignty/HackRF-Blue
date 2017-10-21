@@ -1,4 +1,4 @@
-#HackRF Blue
+##  HackRF Blue
 The HackRF Blue project aims to reduce the cost and increase access to full-featured SDR.
 
 My aim is to update this project with <b>everything</b> you need in order to manufacture the HackRF - what better way to reduce prices than fostering competition. Of course, you can work all this out from the HackRF One project itself, but you'll need to go through the process of manufacturing to get the information you need. I've gone through that process and by putting my experience here I hope to save you some time, effort, and expense. I've also educated the manufacturer (which I imagine would have been far more difficult without speaking Chinese) and you can also leverage off that if you use the same one.
