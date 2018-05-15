@@ -6,9 +6,11 @@ The HackRF Blue is a 0-6GHz software defined radio for RF research projects. It 
 
 This github repo aims to reduce the cost and increase access to full-featured SDR.
 
-My aim is to update this project with <b>everything</b> you need in order to manufacture the HackRF - what better way to reduce prices than fostering competition. Of course, you can work all this out from the HackRF One project itself, but you'll need to go through the process of manufacturing to get the information you need. I've gone through that process and by putting my experience here I hope to save you some time, effort, and expense. I've also educated the manufacturer (which I imagine would have been far more difficult without speaking Chinese) and you can also leverage off that if you use the same one.
+This should contain everything you need to give to a PCBA manufacture to produce the HackRF Blue - what better way to reduce prices than fostering competition. 
 
-In the BOM you will find notes about individual parts. Some parts can safely be replaced with Chinese parts, others cannot. 
+Of course, you can work all this out from the HackRF One project itself, but you'll need to go through the process of manufacturing to get the information you need. I've gone through that process and by putting my experience here I hope to save you some time, effort, and expense. 
+
+In the BOM you will find notes about individual parts. Some parts can safely be replaced with cheaper Chinese parts, others cannot. 
 
 <h3>When costing the project, keep in mind the following:</h3>
 <p>1. There will be a certain percentage of boards that will not work (or not work well) after manufacturing, in our case the number was 30% which would normally be stupidly high, but not for something like the HackRF. About 3% will not power up at all, another 3% will not enter DFU mode. These are 'traditional' manufacturing problems and can be easily fixed. With the HackRF though, about 20-25% will have poor RF performance due to a range of sometimes very weird issues (hint: mix in a little bit of good quality flux with the solder paste, after doing this things improved a lot). Boards with problems will need to be reworked by hand. You cannot rely on factory staff to be able to diagnose and rework something like poor RF performance unless you use a very experienced (and expensive) manufacturer. In our case, I reworked these boards myself and educated the factory staff during the process. If you are lucky, this experience will help reduce your costs, but expect at least 10% of the boards to require reworking by yourself or an RF engineer.</p>
