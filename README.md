@@ -1,6 +1,6 @@
 ##  HackRF Blue
 http://hackrfblue.com
-![](https://github.com/gazhayes/HackRF-Blue/blob/master/Screen%20Shot%202018-05-15%20at%201.55.55%20PM.png?raw=true)
+![https://github.com/gazhayes/HackRF-Blue/blob/master/Screen%20Shot%202018-05-15%20at%201.55.55%20PM.png?raw=true](https://www.indiegogo.com/projects/hackrf-blue#/)
 The HackRF Blue is a 0-6GHz software defined radio for RF research projects. It was funded through [Indiegogo](https://www.indiegogo.com/projects/hackrf-blue#/).
 
 This github repo aims to reduce the cost and increase access to full-featured SDR.
